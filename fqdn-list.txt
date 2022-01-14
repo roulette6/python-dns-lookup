@@ -1,0 +1,3 @@
+google.com
+foo.example.com
+reddit.com
